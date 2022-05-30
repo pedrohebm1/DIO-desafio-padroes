@@ -1,0 +1,1 @@
+Projeto feito com o uso do patterns singleton
